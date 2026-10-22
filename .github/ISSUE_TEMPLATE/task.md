@@ -8,10 +8,7 @@ type: Task
 
 ---
 
-## 🎯 Historia de usuario
- 
-Como Rol: Usuario/Desarrollador/Product Manager/etc.,
-quiero Funcionalidad que se va a construir, para poder Valor/Beneficio que aporta al proyecto.
+## 🎯 Objetivo de esta Tarea
  
 ## 👩🏽‍🎨 Interfaz de usuario
  
