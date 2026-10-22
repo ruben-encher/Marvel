@@ -4,6 +4,7 @@ about: Historia del usuario
 title: ''
 labels: user-story
 assignees: ''
+type: Feature
 
 ---
 
