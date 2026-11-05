@@ -21,13 +21,13 @@ class MainActivity : AppCompatActivity() {
         }
 
         //Crear un fichero SharedPreferences para verlo
-        val xml = SuperHeroXmlLocalDataSource(this)
-        xml.save(mutableListOf(
-            SuperHero("1", "Superman", "super-man", "https://man"),
-            SuperHero("2", "Batman", "bat-man", "https://woman"),
-            SuperHero("3", "SuperDog", "super-dog", "https://dog")))
-
-        val superHero = xml.findById("2")
-        Log.d(MainActivity::class.java.simpleName, superHero.toString())
+//        val xml = SuperHeroXmlLocalDataSource(this)
+//        xml.save(mutableListOf(
+//            SuperHero("1", "Superman", "super-man", "https://man"),
+//            SuperHero("2", "Batman", "bat-man", "https://woman"),
+//            SuperHero("3", "SuperDog", "super-dog", "https://dog")))
+//
+//        val superHero = xml.findById("2")
+//        Log.d(MainActivity::class.java.simpleName, superHero.toString())
     }
 }
