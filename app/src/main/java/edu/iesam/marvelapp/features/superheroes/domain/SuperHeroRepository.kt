@@ -1,4 +1,4 @@
-package edu.iesam.marvelapp.features.superheroes
+package edu.iesam.marvelapp.features.superheroes.domain
 
 interface SuperHeroRepository {
     fun getAll(): List<SuperHero>
