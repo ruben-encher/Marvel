@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
+
+
         //Crear un fichero SharedPreferences para verlo
 //        val xml = SuperHeroXmlLocalDataSource(this)
 //        xml.save(mutableListOf(
